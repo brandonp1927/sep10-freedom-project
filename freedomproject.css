@@ -25,3 +25,32 @@ h1{
     height:auto;
     
 }
+
+
+#Device{
+     display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+
+.carousel slide{
+    height:300px;
+}
+
+.spacing{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+
+.spacing2{
+     margin-top:50px;
+    
+
+}
+
+.spacing3{
+   
+    margin-bottom:50px;
+}
